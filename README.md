@@ -1,2 +1,2 @@
-# git-ovning-vecka5
+# git-Övning-vecka5
 Träna på Git-Hub
